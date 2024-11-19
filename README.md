@@ -1,3 +1,5 @@
+IMPORTANT - SORRY BUT I WAS NOT ABLE TO GRASP PULL REQUESTS DURING CLASSES. I WILL SOON VIA GOOGLE. THAT IS WHY I AM SKIPPING THE 4TH SECTION OF YOUR ASSIGNMENT
+
 # Blog Repository 🌟
 
 Welcome to the **Blog** repository! This project is a dynamic and modern blogging platform built to showcase articles, engage readers, and provide seamless user experiences.
